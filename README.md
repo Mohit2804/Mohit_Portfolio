@@ -59,3 +59,6 @@ The goal of this assignment is to provide a solution to solve the 3 tasks provid
 ![](images/project%206%20joint%20probability.png)
 ![](images/project%206%20normal%20distribution%20plot%201.png)
 ![](images/project%206%20time%20series%20plot.png)
+
+# [Project: IPL Dream Team App](https://github.com/Mohit2804/IPL-Dream-Team-App.git)
+This project involves creating an IPL Dream Team application by integrating real-time data through APIs sourced from ESPNcricinfo. The app allows users to generate and optimize their fantasy cricket team based on up-to-date player statistics, performance metrics, and other key factors. By leveraging API integration, the app provides a dynamic and data-driven experience, ensuring that users have access to the most current information when making their team selections. This project demonstrates proficiency in API integration, data handling, and application development.
