@@ -4,8 +4,8 @@ Data Science Portfolio
 # [Project: Telecom-Customer-Churn-Prediction](https://github.com/Mohit2804/Telecom-Customer-Churn-Prediction.git)
 This project focuses on predicting customer churn for a telecommunications company using machine learning techniques. Leveraging a dataset with comprehensive customer information, I implemented and evaluated models such as XGBoost and Random Forest to forecast customer retention. Key features include preprocessing of missing values, feature engineering, and the use of SHAP values to interpret model predictions. I conducted exploratory data analysis, applied clustering for customer segmentation, and created interactive dashboards with Tableau. The project demonstrates a robust approach to churn prediction with actionable insights for improving customer retention strategies.
 
-![](https://github.com/Mohit2804/Mohit_Portfolio/blob/main/images/Telecom%20Customer%20Churn%20Prediction%20Dashboard%201.png)
-![](https://github.com/Mohit2804/Mohit_Portfolio/blob/main/images/Telecom%20Customer%20Churn%20Prediction%20Dashboard%202.png)
+![](images/Telecom%20Customer%20Churn%20Prediction%20Dashboard%201.png)
+![](images/Telecom%20Customer%20Churn%20Prediction%20Dashboard%202.png)
 
 # [Course 1: Harvard CS50 - Python](https://github.com/Mohit2804/Harvard-CS50_Python)
 
