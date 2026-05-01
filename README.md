@@ -22,7 +22,7 @@ I'm a data analyst passionate about turning raw datasets into clear, actionable 
 ---
 ### 📱 [Project: PhonePe-Digital-Payments-Project](https://github.com/Mohit2804/PhonePe-Digital-Payments-Project.git)
 
-> *Decoding India's digital payments landscape — transactions, users, devices, and demographics.*
+> *Decoding India's digital payments landscape - transactions, users, devices, and demographics.*
 
 PhonePe is one of India's most widely used digital payments platforms. This project dives deep into transaction patterns, user behavior, and regional demographics across **Indian states and districts**, using five interconnected datasets spanning multiple years and quarters.
 
@@ -39,11 +39,11 @@ From loading and cleaning multi-sheet Excel data to merging state-level and dist
 
 ### 🦠 [Project: COVID-19-Project](https://github.com/Mohit2804/COVID-19-Project.git)
 
-> *Tracking the pandemic through data — confirmed cases, deaths, and recoveries across 276 countries.*
+> *Tracking the pandemic through data - confirmed cases, deaths, and recoveries across 276 countries.*
 
 The COVID-19 pandemic generated one of the most widely tracked datasets in modern history. In this project, I analyzed cumulative case, death, and recovery data sourced from the JHU CSSE repository, spanning **January 2020 to May 2021** across **276 countries and regions**.
 
-The project covers the full data analysis pipeline — from handling messy mixed date formats and forward-filling missing time-series values, to merging datasets, computing recovery and death rates, and building visualizations that reveal how different regions experienced the pandemic over time.
+The project covers the full data analysis pipeline - from handling messy mixed date formats and forward-filling missing time-series values, to merging datasets, computing recovery and death rates, and building visualizations that reveal how different regions experienced the pandemic over time.
 
 **Key highlights:**
 - Identified peak single-day surges in Germany, France, and Italy
