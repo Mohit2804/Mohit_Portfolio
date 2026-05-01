@@ -1,5 +1,57 @@
 # Mohit_Portfolio
-Data Science Portfolio
+Data Science and Analyst Portfolio
+# 👋 Hi, I'm [Mohitt]
+
+I'm a data analyst passionate about turning raw datasets into clear, actionable insights using Python. I enjoy working with real-world data to uncover trends, build visualizations, and tell stories through numbers.
+
+---
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical-yellow?style=flat&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Viz-9cf?style=flat)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-red?style=flat&logo=jupyter)
+
+---
+
+## 📂 Featured Projects
+
+---
+### 📱 [Project: PhonePe-Digital-Payments-Project](https://github.com/Mohit2804/PhonePe-Digital-Payments-Project.git)
+
+> *Decoding India's digital payments landscape — transactions, users, devices, and demographics.*
+
+PhonePe is one of India's most widely used digital payments platforms. This project dives deep into transaction patterns, user behavior, and regional demographics across **Indian states and districts**, using five interconnected datasets spanning multiple years and quarters.
+
+From loading and cleaning multi-sheet Excel data to merging state-level and district-level records, this project covers end-to-end exploratory data analysis. I computed average transaction values, tracked app usage trends, analyzed device brand distribution, and surfaced correlations between population density and transaction volume.
+
+**Key highlights:**
+- Identified top and bottom states by transaction volume and average transaction value
+- Mapped device brand preferences across states
+- Correlated demographic data with digital payments behavior
+- Validated district-level data against state-level totals to ensure data consistency
+- Exported a clean district-code mapping CSV for downstream use
+
+---
+
+### 🦠 [Project: COVID-19-Project](https://github.com/Mohit2804/COVID-19-Project.git)
+
+> *Tracking the pandemic through data — confirmed cases, deaths, and recoveries across 276 countries.*
+
+The COVID-19 pandemic generated one of the most widely tracked datasets in modern history. In this project, I analyzed cumulative case, death, and recovery data sourced from the JHU CSSE repository, spanning **January 2020 to May 2021** across **276 countries and regions**.
+
+The project covers the full data analysis pipeline — from handling messy mixed date formats and forward-filling missing time-series values, to merging datasets, computing recovery and death rates, and building visualizations that reveal how different regions experienced the pandemic over time.
+
+**Key highlights:**
+- Identified peak single-day surges in Germany, France, and Italy
+- Compared recovery rates between Canada and Australia
+- Analyzed monthly recovery-to-confirmed ratios for the United States
+- Transformed wide-format data to long format for time-series analysis
+
+---
 
 # [Project: Telecom-Customer-Churn-Prediction](https://github.com/Mohit2804/Telecom-Customer-Churn-Prediction.git)
 This project focuses on predicting customer churn for a telecommunications company using machine learning techniques. Leveraging a dataset with comprehensive customer information, I implemented and evaluated models such as XGBoost and Random Forest to forecast customer retention. Key features include preprocessing of missing values, feature engineering, and the use of SHAP values to interpret model predictions. I conducted exploratory data analysis, applied clustering for customer segmentation, and created interactive dashboards with Tableau. The project demonstrates a robust approach to churn prediction with actionable insights for improving customer retention strategies.
@@ -55,3 +107,10 @@ The goal of this assignment is to provide a solution to solve the 3 tasks provid
 
 # [Project: IPL Dream Team App](https://github.com/Mohit2804/IPL-Dream-Team-App.git)
 This project involves creating an IPL Dream Team application by integrating real-time data through APIs sourced from ESPNcricinfo. The app allows users to generate and optimize their fantasy cricket team based on up-to-date player statistics, performance metrics, and other key factors. By leveraging API integration, the app provides a dynamic and data-driven experience, ensuring that users have access to the most current information when making their team selections. This project demonstrates proficiency in API integration, data handling, and application development.
+
+---
+
+## 📬 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohit-gajjar1/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/Mohit2804)
