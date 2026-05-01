@@ -1,8 +1,9 @@
-# Mohit_Portfolio
-Data Science and Analyst Portfolio
 # 👋 Hi, I'm [Mohitt]
 
-I'm a data analyst passionate about turning raw datasets into clear, actionable insights using Python. I enjoy working with real-world data to uncover trends, build visualizations, and tell stories through numbers.
+I'm a data analyst and aspiring data scientist who loves digging into real-world datasets and turning them into clear, actionable insights. From exploratory analysis and statistical modeling to compelling visualizations, I use Python, MySQL, AWS, and Power BI to uncover the stories hidden in data.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohit-gajjar1/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/Mohit2804)
 
 ---
 
@@ -109,8 +110,3 @@ The goal of this assignment is to provide a solution to solve the 3 tasks provid
 This project involves creating an IPL Dream Team application by integrating real-time data through APIs sourced from ESPNcricinfo. The app allows users to generate and optimize their fantasy cricket team based on up-to-date player statistics, performance metrics, and other key factors. By leveraging API integration, the app provides a dynamic and data-driven experience, ensuring that users have access to the most current information when making their team selections. This project demonstrates proficiency in API integration, data handling, and application development.
 
 ---
-
-## 📬 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohit-gajjar1/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/Mohit2804)
