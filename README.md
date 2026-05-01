@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Mohitt]
+# 👋 Hi, I'm Mohitt
 
 I'm a data analyst and aspiring data scientist who loves digging into real-world datasets and turning them into clear, actionable insights. From exploratory analysis and statistical modeling to compelling visualizations, I use Python, MySQL, AWS, and Power BI to uncover the stories hidden in data.
 
