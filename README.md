@@ -20,7 +20,6 @@ I'm a data analyst and aspiring data scientist who loves digging into real-world
 
 ## 📂 Featured Projects
 
----
 ### 📱 [Project: PhonePe-Digital-Payments-Project](https://github.com/Mohit2804/PhonePe-Digital-Payments-Project.git)
 
 > *Decoding India's digital payments landscape - transactions, users, devices, and demographics.*
