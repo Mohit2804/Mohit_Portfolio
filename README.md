@@ -58,7 +58,11 @@ The project covers the full data analysis pipeline - from handling messy mixed d
 ---
 
 ### [Project: Telecom-Customer-Churn-Prediction](https://github.com/Mohit2804/Telecom-Customer-Churn-Prediction.git)
-This project focuses on predicting customer churn for a telecommunications company using machine learning techniques. Leveraging a dataset with comprehensive customer information, I implemented and evaluated models such as XGBoost and Random Forest to forecast customer retention. Key features include preprocessing of missing values, feature engineering, and the use of SHAP values to interpret model predictions. I conducted exploratory data analysis, applied clustering for customer segmentation, and created interactive dashboards with Tableau. The project demonstrates a robust approach to churn prediction with actionable insights for improving customer retention strategies.
+- Predicted customer churn for a telecom company using XGBoost and Random Forest models
+- Performed data preprocessing including missing value handling and feature engineering
+- Used SHAP values to interpret and explain model predictions
+- Conducted exploratory data analysis and applied clustering for customer segmentation
+- Built interactive dashboards in Tableau to visualize insights and retention strategies
 
 ![](images/Telecom%20Customer%20Churn%20Prediction%20Dashboard%202.png)
 
@@ -69,7 +73,11 @@ This project focuses on predicting customer churn for a telecommunications compa
 ---
 
 ### [Project: Classifying fraudulent detection of credit card: Project Overview](https://github.com/Mohit2804/ML-Classification-Technique)
-In this project, the primary focus is to perform Classification on fraud of credit card, by analysing whether the transaction is a fraud or a genuine payment and four classification technique are performed and compared between fraud and non-fraud payment of credit card by applying logistic regression, k-nearest neighbors algorithm, support vector machines algorithm and decision tree algorithm. Covering Splitting process, Imbalance class problems, Random Under-sampling, distribution and correlating, and Anomaly detection by implementing different techniques of data preparation. All the algorithms and techniques were performed in Python programming language with the help of Machine learning repository. As the dataset is imbalance, we need to balance fraud and non-fraud transactions, visualize it in the form graph and get the best accuracy.
+- Classified credit card transactions as fraud or genuine using four ML algorithms: Logistic Regression, KNN, SVM, and Decision Tree
+- Handled imbalanced class problems using Random Under-sampling to balance fraud and non-fraud transactions
+- Applied data preparation techniques including train-test splitting, distribution analysis, correlation, and anomaly detection
+- Compared all four models to identify the best performing algorithm by accuracy
+- Visualized transaction distributions and model results using graphs in Python
 
 ![](images/project%201%20image.png)
 ![](images/project%201%20learning%20curve.png)
@@ -78,7 +86,11 @@ In this project, the primary focus is to perform Classification on fraud of cred
 ---
 
 ### [Project: Assessment of Streamflow Simulations under Drought Risk Projections in Indian River Basin Ganga using Bayesian Model Averaging and Sarima Method](https://github.com/Mohit2804/BMA-SARIMA)
-In this project, we will evaluate streamflow simulations under drought conditions experienced by Indian river basin Ganga. Drought challenges include all parts of meteorological, agricultural, and hydrologic droughts. Many government officials who are responsible for drought analysis had come up with very vital and advanced technique which is called SARIMA and BMA for linear regression models. With fairly minor corresponding errors, the BMA approach could improve the presentation of the marginal distribution of hydrological variables and SARIMA is substantially more effective at forecasting complicated data spaces with cycles because it incorporates seasonality as a variable.. In this project, the marginal distribution function of the variables was calculated using the BMA technique.Our primary goal is using the Bayesian Model Averaging Method to anticipate streamflow simulations under drought threats. We have utilised this advanced technique in our project and tried to get the best future predictions of drought problems in ganga river approximately few years ahead. More advanced techniques have been introduced for drought analysis which help to give quite more accurate future predictions. These future predictions will help the government, farmers, society, industries, etc. to take prior precautions.
+- Evaluated streamflow simulations under drought conditions in India's Ganga river basin covering meteorological, agricultural, and hydrologic droughts
+- Applied SARIMA for time-series forecasting, leveraging its ability to handle seasonal cycles in complex data
+- Used Bayesian Model Averaging (BMA) to improve marginal distribution of hydrological variables with minimal errors
+- Generated future drought predictions for the Ganga basin to support government, farmers, and industries in taking prior precautions
+- Compared both models to deliver the most accurate long-term forecasts for drought risk management
 
 ![](images/project%202%20image.png)
 
@@ -90,27 +102,42 @@ In this project, I have solved queries using some SQL Question Statments.
 ---
 
 ### [Project: Rebuilding images using CNN and Autoencoders](https://github.com/Mohit2804/Machine-Learning-Image-Classification-Technique)
-In this project, the main objective is to implement image classification problem by rebuilding images using CNN (Convolutional Neural Networks) and Autoencoders. To reduce the streams of the data, in order to provide the data to the users physically we will be using two compression techniques which is Lossy and lossless for Autoencoders. To rebuild the images, we will decompose the image and re-present it in 32-vector code using Autoencoders. We will be using CNN to recognize or detect the face in the images. All methods and algorithms have been executed in the Python programming language using Artificial Neural Network archive. As the dataset has lots of images, we need to reshape the data and data splitting into training and testing, Visualizing it in the graph format and then get the better outcome and the least loss.
+- Rebuilt and classified images using CNN (Convolutional Neural Networks) for face recognition and Autoencoders for image reconstruction
+- Compressed images using Lossy and Lossless techniques, representing each image as a 32-vector code via Autoencoders
+- Preprocessed large image datasets through reshaping and train-test splitting for optimal model performance
+- Minimized reconstruction loss while visualizing results in graph format to evaluate model outcomes
+- Implemented all techniques in Python using Artificial Neural Network libraries
 
 ![](images/project%203%20image.png)
 
 ---
 
 ### [Project: Implementation of Topic Modelling on Amazon Musical Instrument Reviews using PySpark and SparkNLP](https://github.com/Mohit2804/Machine-Learning-Natural-Language-Processing)
-A Topic Modelling is a type of statistical model in machine learning and natural language processing to discover the abstract "topics" that occur in a set of documents. The dataset which we are using for Topic Modelling is Amazon Musical Instruments reviews corpus and will try to find the hidden topics from the corpus. In this study, the topic modelling algorithm which we have implemented is Latent Dirichlet Allocation (LDA). The Latent Dirichlet Allocation (LDA) is an example of a topic model and is used to categorise text into a specific topic in a document. The open source software that I am planning to work with is PySpark and SparkNLP.
+- Applied Latent Dirichlet Allocation (LDA) to discover hidden topics in Amazon Musical Instruments reviews corpus
+- Used PySpark and SparkNLP for scalable text processing and topic modelling
+- Categorised large volumes of unstructured review text into meaningful abstract topics
+- Leveraged LDA's statistical approach to uncover patterns across the document corpus
+- Demonstrated end-to-end NLP pipeline from raw text to interpretable topic clusters
 
 ![](images/project%204%20image.png)
 
 ---
 
 ### [Project: ML- Search Engine (Information Retrieval)](https://github.com/Mohit2804/Information-Retrieval)
-The method of acquiring information system resources that are important to an information require from a set of those resources is known as information retrieval (IR). Full-text or other content-based indexing may be used to conduct searches. The science of finding information in a document, finding for documents itself, as well as finding for metadata that identifies data and databases of texts, images, or sounds, is known as information retrieval.
-An information retrieval system is a software application that allows users to access books, journals, and other records, as well as store and maintain them. The much more noticeable IR applications are web search engines.The system aids customers in locating the details they need, but it does not definitively restore the necessary answers to their queries. It informs the existence and location about repositories which may contain the required data. Related reports are archives that meet a client's requirements. Only important documents can be recovered by a perfect IR system. Information retrieval could be done on the internet, inside messages, on a personal computer, or from a union's data base. The advent of the internet and subsequent web - based life in the mid-to-late 1990s gave rise to a massive amount of unstructured data getting exchanged and shared on a daily basis on the internet. As a result, a good Information Retrieval framework became important Search Engine. For examples: Common search engines include Google, Bing, and Yahoo, while specialty search engines include Web of Science, Google Scholar, DBLP and others.
+- Built an Information Retrieval (IR) system to locate and retrieve relevant documents from large unstructured data repositories
+- Implemented full-text and content-based indexing to enable efficient search across texts, images, and metadata
+- Designed the system to identify and return only the most relevant documents matching a user's query
+- Explored IR applications ranging from web search engines (Google, Bing) to academic search engines (Google Scholar, DBLP)
+- Demonstrated how IR frameworks handle the massive volume of unstructured data exchanged across the internet
 
 ---
 
 ### [Project: Topic Modelling with LDA AND LSA Technique](https://github.com/Mohit2804/ADVANCED-MACHINE-LEARNING)
-In this project, I have used vaccination_all_tweets dataset, in order to implement topic modelling with LDA AND LSA techniques. We have used these two techniques and compared both of them to check which technique focuses best on the topic categories. However, we failed in getting the best outcome using LSA technique. We were unable to achieve any significant division throughout the topic groups, and it was hard to say if it was due to the decomposition of LSA or the t-SNE dimensionality reduction procedure. But, finally, we have got the superior outcome using LDA technique. Using t -SNE, it appears that LDA is successful in splitting the topic groups than LSA. As a result, LDA tends to be the better algorithm.
+- Applied and compared LDA and LSA topic modelling techniques on a vaccination tweets dataset
+- Used t-SNE dimensionality reduction to visualize and evaluate topic group separation for both models
+- LSA failed to achieve significant division across topic groups, making results difficult to interpret
+- LDA outperformed LSA by successfully splitting topic groups into clear, distinct clusters via t-SNE
+- Concluded that LDA is the superior algorithm for topic modelling on social media text data
 
 ![](images/project%205%20LDA%20Visualization.png)
 ![](images/project%205%20LDA-Gensim%20model%20Visualization.png)
@@ -120,7 +147,11 @@ In this project, I have used vaccination_all_tweets dataset, in order to impleme
 ---
 
 ### [Project: Modelling EEG signals using polynomial regression](https://github.com/Mohit2804/STATISTICS)
-The goal of this assignment is to provide a solution to solve the 3 tasks provided. It demonstrates the analysis of data and comprehension of data from task 1 where we spoke and plotted graphs such as scatter plot and time series to recognize the dataset for EEG signals. The main aim was to get the best model out of provided 5 EEG models, which we already found by getting all the important results and plots, through those calculations and results we got the best model which is Model 5. All the plots helped us to identify the best model. We also implemented the most important statistical concepts such as model parameter estimation using least squares, residual sum of squares, log-likelihood function, Akaike information criterion(AIC), Bayesian information criterion(BIC), Q-Q plots and train and test split. In our task 3, we implemented Approximate Bayesian Computation using the 2 largest parameters and showed the results. All of the above topics have been introduced using the R programming language.
+- Analyzed and modeled EEG signals using scatter plots and time series visualizations to understand the dataset
+- Evaluated 5 EEG models using key statistical metrics — Least Squares, RSS, Log-likelihood, AIC, and BIC — identifying Model 5 as the best
+- Applied Q-Q plots and train-test split to validate model assumptions and performance
+- Implemented Approximate Bayesian Computation (ABC) using the 2 largest parameters for advanced probabilistic inference
+- Executed all analysis and modelling in R programming language
 
 ![](images/project%206%20joint%20probability.png)
 ![](images/project%206%20normal%20distribution%20plot%201.png)
@@ -129,6 +160,9 @@ The goal of this assignment is to provide a solution to solve the 3 tasks provid
 ---
 
 ### [Project: IPL Dream Team App](https://github.com/Mohit2804/IPL-Dream-Team-App.git)
-This project involves creating an IPL Dream Team application by integrating real-time data through APIs sourced from ESPNcricinfo. The app allows users to generate and optimize their fantasy cricket team based on up-to-date player statistics, performance metrics, and other key factors. By leveraging API integration, the app provides a dynamic and data-driven experience, ensuring that users have access to the most current information when making their team selections. This project demonstrates proficiency in API integration, data handling, and application development.
+- Built an IPL Dream Team app that fetches real-time player data via ESPNcricinfo APIs
+- Enabled users to generate and optimize their fantasy cricket team based on live player statistics and performance metrics
+- Designed a dynamic, data-driven experience ensuring team selections are based on the most current information
+- Demonstrated end-to-end proficiency in API integration, data handling, and application development
 
 ---
