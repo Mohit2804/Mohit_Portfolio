@@ -20,7 +20,7 @@ I'm a data analyst and aspiring data scientist who loves digging into real-world
 
 ## 📂 Featured Projects
 
-### 📱 [Project: PhonePe-Digital-Payments-Project](https://github.com/Mohit2804/PhonePe-Digital-Payments-Project.git)
+### 📱 [Project: PhonePe Digital Payments Project](https://github.com/Mohit2804/PhonePe-Digital-Payments-Project.git)
 
 > *Decoding India's digital payments landscape - transactions, users, devices, and demographics.*
 
@@ -39,7 +39,7 @@ From loading and cleaning multi-sheet Excel data to merging state-level and dist
 
 ---
 
-### 🦠 [Project: COVID-19-Project](https://github.com/Mohit2804/COVID-19-Project.git)
+### 🦠 [Project: COVID-19 Project](https://github.com/Mohit2804/COVID-19-Project.git)
 
 > *Tracking the pandemic through data - confirmed cases, deaths, and recoveries across 276 countries.*
 
@@ -57,7 +57,7 @@ The project covers the full data analysis pipeline - from handling messy mixed d
 
 ---
 
-### [Project: Telecom-Customer-Churn-Prediction](https://github.com/Mohit2804/Telecom-Customer-Churn-Prediction.git)
+### [Project: Telecom Customer Churn Prediction](https://github.com/Mohit2804/Telecom-Customer-Churn-Prediction.git)
 - Predicted customer churn for a telecom company using XGBoost and Random Forest models
 - Performed data preprocessing including missing value handling and feature engineering
 - Used SHAP values to interpret and explain model predictions
