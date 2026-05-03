@@ -53,6 +53,8 @@ The project covers the full data analysis pipeline - from handling messy mixed d
 - Analyzed monthly recovery-to-confirmed ratios for the United States
 - Transformed wide-format data to long format for time-series analysis
 
+![](https://github.com/Mohit2804/Mohit_Portfolio/blob/main/images/COVID19_Project_Collage.png)
+
 ---
 
 # [Project: Telecom-Customer-Churn-Prediction](https://github.com/Mohit2804/Telecom-Customer-Churn-Prediction.git)
