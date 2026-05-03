@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohitt
 
-I'm a data analyst and aspiring data scientist who loves digging into real-world datasets and turning them into clear, actionable insights. From exploratory analysis and statistical modeling to compelling visualizations, I use Python, MySQL, AWS, and Power BI to uncover the stories hidden in data.
+I am a data analyst and aspiring data scientist who loves digging into real-world datasets and turning them into clear, actionable insights. From exploratory analysis and statistical modeling to compelling visualizations, I use Python, MySQL, AWS, and Power BI to uncover the stories hidden in data.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohit-gajjar1/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/Mohit2804)
