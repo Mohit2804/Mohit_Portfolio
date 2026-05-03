@@ -35,7 +35,7 @@ From loading and cleaning multi-sheet Excel data to merging state-level and dist
 - Validated district-level data against state-level totals to ensure data consistency
 - Exported a clean district-code mapping CSV for downstream use
 
-!([PhonePe_Project_Collage.png](https://github.com/Mohit2804/Mohit_Portfolio/blob/main/images/PhonePe_Project_Collage.png))
+![](https://github.com/Mohit2804/Mohit_Portfolio/blob/main/images/PhonePe_Project_Collage.png)
 
 ---
 
