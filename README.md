@@ -72,7 +72,7 @@ The project covers the full data analysis pipeline - from handling messy mixed d
 
 ---
 
-### [Project: Classifying fraudulent detection of credit card: Project Overview](https://github.com/Mohit2804/ML-Classification-Technique)
+### [Project: Classifying fraudulent detection of credit card](https://github.com/Mohit2804/ML-Classification-Technique)
 - Classified credit card transactions as fraud or genuine using four ML algorithms: Logistic Regression, KNN, SVM, and Decision Tree
 - Handled imbalanced class problems using Random Under-sampling to balance fraud and non-fraud transactions
 - Applied data preparation techniques including train-test splitting, distribution analysis, correlation, and anomaly detection
